@@ -6,7 +6,7 @@ Este repositorio contiene un programa en C para calcular el área de una circunf
 
 El programa `areaCircunferencia.c` permite al usuario ingresar el radio de una circunferencia y calcula su área utilizando la fórmula:
 
-\[ \text{Área} = \pi \times \text{radio}^2 \]
+Área = π * radio^2
 
 El valor de \(\pi\) usado en el programa es aproximadamente 3.1416.
 
@@ -32,6 +32,4 @@ El valor de \(\pi\) usado en el programa es aproximadamente 3.1416.
 4. **Uso:**
    - El programa solicitará al usuario que ingrese el radio de la circunferencia.
    - Después de ingresar el radio, el programa calculará y mostrará el área de la circunferencia.
-
-## Ejemplo
 
